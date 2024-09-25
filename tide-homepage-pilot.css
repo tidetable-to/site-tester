@@ -34,9 +34,12 @@ p {
 
 .homepage-item {
     margin-left: 5%;
+    margin-bottom: 10px;
     display: block;
     width: 300px;
-    font-family:Georgia, 'Times New Roman', Times, serif
+    font-family:Georgia, Times, serif;
+    text-decoration: none;
+    color: black;
 }
 
 .instagram-link {
@@ -100,7 +103,6 @@ p {
 .corner-god {
     width: 150px;
     display:block;
-    text-align: right;
 }
 
 .subscription-bar {
